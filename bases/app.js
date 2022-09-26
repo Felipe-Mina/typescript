@@ -1,4 +1,4 @@
 "use strict";
-const msg = 'hola mundo';
-msg = 'hello world';
-console.log(msg);
+const a = 10;
+let b;
+b = 3.1416;

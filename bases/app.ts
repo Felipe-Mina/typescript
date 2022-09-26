@@ -1,6 +1,6 @@
 
 
-const msg : string = 'hola mundo'
-msg = 'hello world'
+const a: number = 10;
+let b: number;
 
-console.log(msg)
+b = 3.1416;
