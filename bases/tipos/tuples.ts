@@ -5,5 +5,5 @@
     hero[1] = 200;
     hero[2] = false;
 
-    console.log(hero)
+    console.log(hero);
 })()
