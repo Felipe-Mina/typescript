@@ -8,7 +8,11 @@
     flash = {
         name: 'Clark Kent',
         age: 60,
-        powers: ['Super fuerza']
+        powers: ['Super fuerza'],
+        getName() {
+            return this.name;
+        }
     };
-    console.log(flash);
+    /*     console.log(flash.getName())
+     */
 })();
